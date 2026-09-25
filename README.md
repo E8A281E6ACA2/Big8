@@ -1,8 +1,8 @@
 # ☯ Big8 · AI 玄学助手
 
-读图看风水 · 看面相 · 算八字 · 查星座 · 每日一卦 · 老黄历。上传图片分析家居风水/面相，输入生日排八字，查星座运势，起卦占卜。
+算八字·八字排盘·看风水·看面相·查星座·每日一卦·老黄历 — 玄学算命一站式。
 
-> English: AI fortune-telling assistant: feng shui, face reading, BaZi (Chinese astrology), zodiac, daily divination, almanac.
+> English: AI fortune-telling assistant: BaZi (八字算命), face reading, feng shui, horoscope, I Ching divination, daily almanac.
 
 ## ✨ 功能
 
